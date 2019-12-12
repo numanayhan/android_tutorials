@@ -66,12 +66,10 @@ public class NotificationService extends FirebaseMessagingService {
 
         Notification notificationBuilder = new Notification.Builder(this)
                 .setSmallIcon(R.drawable.ic_panda_notify)
-                .setColor(getColor(R.color.colorPrimary)) //(getColor(R.color.colorPrimaryDark))
+                .setColor(getColor(R.color.colorPrimary))
                 .setContentTitle(messageTitle)
                 .setContentText(messageBody)
-              //  .setSound(NOTIFICATION_SOUND_URI)
                 .setVibrate(VIBRATE_PATTERN)
-             //   .setSmallIcon(R.drawable.common_google_signin_btn_icon_light_normal)
                 .setAutoCancel(true)
                 .setStyle(new Notification.BigTextStyle())
                 .setContentIntent(pendingIntent).build();
