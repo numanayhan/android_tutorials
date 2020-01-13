@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.panda.androiduiview"
+    package="com.tra.androidui"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="24"
+        android:minSdkVersion="23"
         android:targetSdkVersion="29" />
 
     <application
@@ -18,7 +18,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.panda.androiduiview.MainActivity" >
+        <activity android:name="com.tra.androidui.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

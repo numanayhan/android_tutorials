@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.panda.androiduiview.test" >
+    package="com.tra.androidui.test" >
 
     <uses-sdk
-        android:minSdkVersion="24"
+        android:minSdkVersion="23"
         android:targetSdkVersion="29" />
 
     <instrumentation
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.panda.androiduiview"
-        android:targetPackage="com.panda.androiduiview" />
+        android:label="Tests for com.tra.androidui"
+        android:targetPackage="com.tra.androidui" />
 
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 
@@ -20,21 +20,21 @@
 
         <activity
             android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-            android:theme="@android:style/Theme" >
+            android:theme="@style/InstrumentationActivityInvokerBootstrapActivityTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
         <activity
             android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-            android:theme="@android:style/Theme" >
+            android:theme="@style/InstrumentationActivityInvokerEmptyActivityTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
         <activity
             android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-            android:theme="@android:style/Theme.Dialog" >
+            android:theme="@style/InstrumentationActivityInvokerFloatingActivityTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
