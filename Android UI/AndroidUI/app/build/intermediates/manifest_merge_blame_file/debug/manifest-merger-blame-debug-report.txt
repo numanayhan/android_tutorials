@@ -11,7 +11,7 @@
 9-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:5:5-27:19
 12        android:allowBackup="true"
 12-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -25,22 +25,44 @@
 17-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:10:9-35
-19        android:theme="@style/AppTheme" >
-19-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:11:9-40
-20        <activity android:name="com.tra.androidui.MainActivity" >
-20-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:12:9-18:20
-20-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:12:19-47
-21            <intent-filter>
-21-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:13:13-17:29
-22                <action android:name="android.intent.action.MAIN" />
-22-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:14:17-69
-22-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:14:25-66
-23
-24                <category android:name="android.intent.category.LAUNCHER" />
-24-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:16:17-77
-24-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:16:27-74
-25            </intent-filter>
-26        </activity>
-27    </application>
-28
-29</manifest>
+19        android:testOnly="true"
+20        android:theme="@style/Theme.AppCompat.NoActionBar" >
+20-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:11:9-59
+21        <activity android:name="com.tra.androidui.TextComponents.Phone" />
+21-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:13:9-67
+21-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:13:19-55
+22        <activity android:name="com.tra.androidui.TextComponents.Email" />
+22-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:14:9-58
+22-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:14:19-55
+23        <activity android:name="com.tra.androidui.TextComponents.Password_Numeric" />
+23-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:15:9-69
+23-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:15:19-66
+24        <activity android:name="com.tra.androidui.TextComponents.Password" />
+24-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:16:9-61
+24-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:16:19-58
+25        <activity android:name="com.tra.androidui.TextComponents.PlainText" />
+25-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:17:9-62
+25-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:17:19-59
+26        <activity android:name="com.tra.androidui.TextComponents.Text" />
+26-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:18:9-57
+26-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:18:19-54
+27        <activity android:name="com.tra.androidui.TextViewActivity" />
+27-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:19:9-54
+27-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:19:19-51
+28        <activity android:name="com.tra.androidui.MainActivity" >
+28-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:20:9-26:20
+28-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:20:19-47
+29            <intent-filter>
+29-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:21:13-25:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:22:17-69
+30-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:24:17-77
+32-->C:\GitHub\android_tutorials\android_tutorials\Android UI\AndroidUI\app\src\main\AndroidManifest.xml:24:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TextComponents.Text">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayoutId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp">
+
+        <TextView
+            android:id="@+id/textViewBackEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="184dp"
+            android:text="TextView" />
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textViewBackEdit"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="184dp"
+            android:text="TextView"
+
+            android:textSize="20sp"
+            android:textColor="@color/_light_green"
+            android:fontFamily="cursive" />  <!-- Changing the Font , Size and the Color of the text  -->
+
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView4"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="184dp"
+            android:text="TextView"
+
+            android:textStyle="italic"
+            android:textAllCaps="true"/> <!-- Style Changed and made it all capital letters  -->
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView5"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="184dp"
+            android:text="TextView"
+            android:textIsSelectable="true"
+            android:textColorHighlight="@color/_light_green"/><!-- Made the standart text selectable (copy or share) and changed the color when selected -->
+
+    </RelativeLayout>
+
+</RelativeLayout>
