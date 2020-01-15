@@ -8,14 +8,15 @@
 
 <ScrollView
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:layout_marginTop="50dp"
+    android:layout_marginBottom="20dp">
 
 
         <RelativeLayout
             android:id="@+id/relativeLayoutId"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginTop="50dp">
+            android:layout_height="match_parent">
 
                 <Button
                     android:id="@+id/textViewId"
@@ -104,6 +105,16 @@
                     android:layout_marginTop="30dp"
                     android:layout_marginEnd="105dp"
                     android:text="Time" />
+
+                <Button
+                    android:id="@+id/btnNumberId"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginEnd="105dp"
+                    android:layout_below="@+id/timeViewId3"
+                    android:text="Numbers" />
 
         </RelativeLayout>
 </ScrollView>

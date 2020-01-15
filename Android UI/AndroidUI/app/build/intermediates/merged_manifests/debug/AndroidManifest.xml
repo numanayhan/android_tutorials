@@ -18,6 +18,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AppCompat.NoActionBar" >
+        <activity android:name="com.tra.androidui.TextComponents.Numbers" />
         <activity android:name="com.tra.androidui.TextComponents.Phone" />
         <activity android:name="com.tra.androidui.TextComponents.Email" />
         <activity android:name="com.tra.androidui.TextComponents.Password_Numeric" />

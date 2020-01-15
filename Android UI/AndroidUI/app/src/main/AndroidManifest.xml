@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-
-        <activity android:name=".TextComponents.Phone"></activity>
+        <activity android:name=".TextComponents.Numbers"></activity>
+        <activity android:name=".TextComponents.Phone" />
         <activity android:name=".TextComponents.Email" />
         <activity android:name=".TextComponents.Password_Numeric" />
         <activity android:name=".TextComponents.Password" />

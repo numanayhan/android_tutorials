@@ -9,7 +9,8 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button btnTextView ,btnButtonView ,btnWidgetView ,btnContainerView ,btnLegacyView ,btnLayoutView;
+    Button btnTextView, btnButtonView, btnWidgetView, btnContainerView, btnLegacyView, btnLayoutView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,19 +21,19 @@ public class MainActivity extends AppCompatActivity {
         btnTextView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,TextViewActivity.class);
+                Intent intent = new Intent(MainActivity.this, TextViewActivity.class);
                 startActivity(intent);
             }
         });
     }
 
-    public void init(){
-        btnTextView = (Button)findViewById(R.id.textId);
-        btnButtonView = (Button)findViewById(R.id.buttonId);
-        btnContainerView = (Button)findViewById(R.id.containersId);
-        btnLayoutView = (Button)findViewById(R.id.layoutsId);
-        btnWidgetView = (Button)findViewById(R.id.widgetId);
-        btnLegacyView = (Button)findViewById(R.id.legacyId);
+    public void init() {
+        btnTextView = (Button) findViewById(R.id.textId);
+        btnButtonView = (Button) findViewById(R.id.buttonId);
+        btnContainerView = (Button) findViewById(R.id.containersId);
+        btnLayoutView = (Button) findViewById(R.id.layoutsId);
+        btnWidgetView = (Button) findViewById(R.id.widgetId);
+        btnLegacyView = (Button) findViewById(R.id.legacyId);
 
     }
 }
