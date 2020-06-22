@@ -14,8 +14,7 @@ import java.util.ArrayList;
 
 
 public class MainActivity extends AppCompatActivity {
-
-    int preSelectedIndex = -1;
+ 
     ListView listView;
     LangAdapter adapter = null;
     ArrayList<LangModel> langs = null;
@@ -52,7 +51,6 @@ public class MainActivity extends AppCompatActivity {
                         }
                     }
                 }
-                preSelectedIndex = i;
                 adapter.updateRecords(langs);
                 reloadAllData();
             }
