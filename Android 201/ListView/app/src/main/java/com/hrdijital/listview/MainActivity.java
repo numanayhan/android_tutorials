@@ -14,7 +14,7 @@ import java.util.ArrayList;
 
 
 public class MainActivity extends AppCompatActivity {
- 
+
     ListView listView;
     LangAdapter adapter = null;
     ArrayList<LangModel> langs = null;
