@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
+
     tools:context=".MainActivity">
 
     <com.google.android.material.textfield.TextInputLayout
@@ -12,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:layout_marginStart="16dp"
+        android:layout_marginTop="150dp"
         android:layout_marginEnd="16dp"
 
         app:boxCornerRadiusBottomEnd="5dp"
@@ -21,20 +22,33 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
-        <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:ellipsize="end"
-            android:textColorHint="@color/colorAccent"
-            android:maxLines="1"
-            android:textSize="12dp"
-            android:background="@drawable/edit_text_border"
-            android:hint="E-posta"
-            android:paddingLeft="10dp"
-            app:hintTextColor="@color/colorAccent"
-            tools:ignore="KeyboardInaccessibleWidget"
-            />
 
     </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/label">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/edit_text_border"
+        android:ellipsize="end"
+        android:hint="E-posta"
+        android:maxLines="1"
+        android:paddingLeft="10dp"
+        android:textColorHint="@color/colorAccent"
+        android:textSize="12dp"
+        app:hintTextColor="@color/colorAccent"
+        tools:ignore="KeyboardInaccessibleWidget" />
 
 </LinearLayout>
