@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#d81b60</color>
+
+    <!--  Dark Mode -->
+    <color name="colorPrimaryNight">#16202c</color>
+    <color name="colorPrimaryDarkNight">#141d26</color>
+    <color name="colorAccentNight">#ffffff</color>
+    <!-- Exstra Color-->
+    <color name="primaryText">#212121</color>
+    <color name="primaryTextNight">#ffffff</color>
+</resources>
