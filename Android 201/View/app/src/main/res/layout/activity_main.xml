@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="horizontal">
+
+
+
+
+  <LinearLayout
+      android:id="@+id/layout1"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_gravity="bottom"
+      android:background="@color/center_linear_layout"
+      android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:background="@color/top_linearlayout"
+        android:orientation="horizontal"
+
+        >
+
+      <Button
+          android:id="@+id/volume"
+          android:layout_width="34dp"
+          android:layout_height="34dp"
+          android:background="@drawable/volume"
+          android:layout_gravity="center"
+          android:layout_marginLeft="20dp"
+
+          />
+
+
+
+      <LinearLayout
+          android:id="@+id/layout3"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:layout_marginLeft="195dp"
+
+
+        >
+
+
+
+      <Button
+          android:id="@+id/add"
+          android:layout_width="37dp"
+          android:layout_height="37dp"
+          android:background="@drawable/add_personal"
+          android:layout_gravity="center"
+          android:layout_marginLeft="0dp"
+
+
+          />
+
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="37dp"
+            android:layout_height="37dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/baseline"
+
+            />
+
+
+      <Button
+          android:id="@+id/setting"
+          android:layout_width="37dp"
+          android:layout_height="37dp"
+          android:background="@drawable/settings"
+          android:layout_gravity="center"
+          android:layout_marginLeft="20dp"
+          
+          />
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:orientation="horizontal"
+      >
+
+      <ListView
+
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:id="@+id/listView" />
+
+
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:id="@+id/layout4"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_marginTop="0dp"
+        android:background="@color/bottom_linearlayout"
+        android:orientation="horizontal">
+
+
+
+
+      <Button
+          android:id="@+id/button5"
+          android:layout_width="305dp"
+          android:layout_height="40dp"
+          android:layout_marginLeft="16dp"
+          android:layout_marginTop="7dp"
+          android:background="@drawable/alt_button1"
+          android:text="@string/sesli_uygulamaya_katıl"
+          android:textColor="@color/text_color"
+          android:textSize="11sp"
+
+          />
+
+      <Button
+          android:id="@+id/button6"
+          android:layout_width="55dp"
+          android:layout_height="40dp"
+          android:layout_marginLeft="16dp"
+          android:layout_marginTop="7dp"
+          android:background="@drawable/alt_button2"
+          android:drawableStart="@drawable/video"
+          android:paddingLeft="12dp"
+          android:textColor="@color/video"
+          android:textSize="11sp"
+          />
+
+    </LinearLayout>
+
+  </LinearLayout>
+
+</LinearLayout>
