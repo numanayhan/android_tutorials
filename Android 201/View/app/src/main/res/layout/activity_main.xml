@@ -18,7 +18,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.2"
+            android:layout_weight="0.25"
             android:background="@color/top_linearlayout"
             android:orientation="horizontal"
 
@@ -88,7 +88,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.8"
+            android:layout_weight="0.75"
             android:orientation="horizontal">
 
 
@@ -105,7 +105,7 @@
             android:id="@+id/layout4"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.2"
+            android:layout_weight="0.25"
             android:background="@color/bottom_linearlayout"
             android:orientation="horizontal">
 
@@ -115,9 +115,9 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="16dp"
-                android:layout_marginTop="5dp"
+                android:layout_marginTop="10dp"
                 android:layout_weight="0.8"
-                android:layout_marginBottom="5dp"
+                android:layout_marginBottom="10dp"
                 android:background="@drawable/btn"
                 android:text="@string/sesli_uygulamaya_katıl"
                 android:textColor="@color/text_color"
@@ -130,9 +130,9 @@
                 android:layout_width="23dp"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="20dp"
-                android:layout_marginTop="8dp"
-                android:layout_marginBottom="8dp"
-                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
                 android:layout_weight="0.05"
                 android:background="@drawable/btn"
                 android:drawableStart="@drawable/video"
