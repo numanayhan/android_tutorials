@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96571527527",
+    "firebase_url": "https://pandanotification-2b4e4.firebaseio.com",
+    "project_id": "pandanotification-2b4e4",
+    "storage_bucket": "pandanotification-2b4e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96571527527:android:0d20294aec01ec0784dfc2",
+        "android_client_info": {
+          "package_name": "com.panda.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96571527527-b975gu5i3pfj66jvfo6b85570i776qsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0DpuuAs65Vevk7CZD_-giLHr8i-HHTUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96571527527-b975gu5i3pfj66jvfo6b85570i776qsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

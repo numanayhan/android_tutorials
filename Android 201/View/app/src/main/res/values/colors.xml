@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="top_linearlayout">#212226</color>
+    <color name="bottom_linearlayout">#212226</color>363940
+    <color name="video">#212226</color>
+    <color name="center_linear_layout">#363940</color>
+    <color name="text_color">#F5FFFF</color>F5FFFF
+
+
+
+    <color name="alt_button">#7289D8</color>
+
+</resources>

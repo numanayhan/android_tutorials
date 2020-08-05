@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneCall</string>
+    <string name="permision_dont_ask_again">Lütfen Ayarlar ekranından   izin verin</string>
+    <string name="cancel">İptal</string>
+    <string name="ok">Tamam</string>
+    <string name="permision"></string>
+</resources>

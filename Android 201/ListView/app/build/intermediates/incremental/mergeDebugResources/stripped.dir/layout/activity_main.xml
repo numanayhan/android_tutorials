@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+                                                   
+
+    
+                             
+                                                           
+           
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:tag="layout/activity_main_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:tag="binding_1"    
+        tools:text="Türkçe"
+        >
+    </TextView>
+    <TextView
+        android:layout_marginTop="50dp"
+        android:id="@+id/change"
+        android:text="Değiştir"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+
+    </TextView>
+</RelativeLayout>
+         
