@@ -1,10 +1,17 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "/Users/numanayhan/Repository/android_tutorials/Android 201/View/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "/Users/numanayhan/.gradle/caches/transforms-2/files-2.1/76f2b6439d16df60df3177021482ee5a/core-1.1.0/res/values-mr/values-mr.xml",
+=======
+            "outputFile": "C:\\Repository\\android_tutorials\\Android 201\\View\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\turi\\.gradle\\caches\\transforms-2\\files-2.1\\76f2b6439d16df60df3177021482ee5a\\core-1.1.0\\res\\values-mr\\values-mr.xml",
+>>>>>>> 9a2ce6e52c6e518611dd2e76405b467b5d591f73
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +28,11 @@
                     }
                 },
                 {
+<<<<<<< HEAD
                     "source": "/Users/numanayhan/.gradle/caches/transforms-2/files-2.1/f209091eb3926c649f0b3346884e478c/appcompat-1.1.0/res/values-mr/values-mr.xml",
+=======
+                    "source": "C:\\Users\\turi\\.gradle\\caches\\transforms-2\\files-2.1\\f209091eb3926c649f0b3346884e478c\\appcompat-1.1.0\\res\\values-mr\\values-mr.xml",
+>>>>>>> 9a2ce6e52c6e518611dd2e76405b467b5d591f73
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
