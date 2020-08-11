@@ -1,0 +1,27 @@
+{
+    "logs": [
+        {
+<<<<<<< HEAD
+            "outputFile": "/Users/numanayhan/Repository/android_tutorials/Android 201/View/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/numanayhan/.gradle/caches/transforms-2/files-2.1/f209091eb3926c649f0b3346884e478c/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+=======
+            "outputFile": "C:\\Repository\\android_tutorials\\Android 201\\View\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\turi\\.gradle\\caches\\transforms-2\\files-2.1\\f209091eb3926c649f0b3346884e478c\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+>>>>>>> 9a2ce6e52c6e518611dd2e76405b467b5d591f73
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
