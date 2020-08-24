@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLiveData</string>
+    <string name="max_count">En fazla 5 ürün ekleyebilirsiniz</string>
+    <string name="min_count">Sepetiniz boş</string>
+</resources>
