@@ -9,51 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44766505-01ef-4e74-9087-aa5ab8ffc7aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/hrdijital/multilivedata/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hrdijital/multilivedata/MultiLiveMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hrdijital/multilivedata/ProductModal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/in.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/anim/out.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/add.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/add_product.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/adds.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/border.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/border_line.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/close.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/dialog.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/minus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/products.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/hrdijital/multilivedata/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="44766505-01ef-4e74-9087-aa5ab8ffc7aa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1gXHShb0FJ2NIfKn8jIGCJYtudY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -98,7 +54,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1059988884">
+      <recent name="com.hrdijital.multilivedata" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -182,26 +144,30 @@
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state x="426" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.820@0.23.1440.820" timestamp="1598255134598" />
-    <state x="286" y="194" key="AndroidCreateResourceFileDialog" timestamp="1598256919282">
+    <state x="286" y="194" key="AndroidCreateResourceFileDialog" timestamp="1598266121762">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state x="286" y="194" key="AndroidCreateResourceFileDialog/0.23.1440.820@0.23.1440.820" timestamp="1598256919282" />
-    <state width="1334" height="199" key="GridCell.Tab.0.bottom" timestamp="1598258077646">
+    <state x="286" y="194" key="AndroidCreateResourceFileDialog/0.23.1440.820@0.23.1440.820" timestamp="1598266121762" />
+    <state width="1334" height="202" key="GridCell.Tab.0.bottom" timestamp="1598269367762">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1334" height="199" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1598258077646" />
-    <state width="1334" height="199" key="GridCell.Tab.0.center" timestamp="1598258077644">
+    <state width="1334" height="202" key="GridCell.Tab.0.bottom/0.23.1440.820@0.23.1440.820" timestamp="1598269367762" />
+    <state width="1334" height="202" key="GridCell.Tab.0.center" timestamp="1598269367761">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1334" height="199" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1598258077644" />
-    <state width="1334" height="199" key="GridCell.Tab.0.left" timestamp="1598258077644">
+    <state width="1334" height="202" key="GridCell.Tab.0.center/0.23.1440.820@0.23.1440.820" timestamp="1598269367761" />
+    <state width="1334" height="202" key="GridCell.Tab.0.left" timestamp="1598269367760">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1334" height="199" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1598258077644" />
-    <state width="1334" height="199" key="GridCell.Tab.0.right" timestamp="1598258077645">
+    <state width="1334" height="202" key="GridCell.Tab.0.left/0.23.1440.820@0.23.1440.820" timestamp="1598269367760" />
+    <state width="1334" height="202" key="GridCell.Tab.0.right" timestamp="1598269367761">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state width="1334" height="199" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1598258077645" />
+    <state width="1334" height="202" key="GridCell.Tab.0.right/0.23.1440.820@0.23.1440.820" timestamp="1598269367761" />
+    <state x="189" y="72" key="SettingsEditor" timestamp="1598258697406">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="189" y="72" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1598258697406" />
     <state x="340" y="190" width="695" height="486" key="find.popup" timestamp="1598255663840">
       <screen x="0" y="23" width="1440" height="820" />
     </state>

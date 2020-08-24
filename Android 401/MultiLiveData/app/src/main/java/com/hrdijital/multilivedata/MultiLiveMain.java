@@ -16,7 +16,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+import com.facebook.shimmer.ShimmerFrameLayout;
 import com.google.android.material.snackbar.Snackbar;
 
 public class MultiLiveMain extends AppCompatActivity implements View.OnClickListener {
@@ -30,18 +30,20 @@ public class MultiLiveMain extends AppCompatActivity implements View.OnClickList
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         activity = MultiLiveMain.this;
+
+
         show_products = findViewById(R.id.show_products);
         show_products.setOnClickListener(this);
         pieceText = findViewById(R.id.pieceText);
         productModal = ViewModelProviders.of(activity).get(ProductModal.class);
         productModal.getCount().setValue(0);
+
         productObserver = new Observer<Integer>() {
             @Override
             public void onChanged(Integer name) {
                 if (name != 0){
                     pieceText.setText(name.toString());
                 }
-
             }
         };
         productModal.getCount().observe(activity, productObserver);
@@ -50,6 +52,7 @@ public class MultiLiveMain extends AppCompatActivity implements View.OnClickList
     @Override
     public void onClick(View view) {
         if (view.findViewById(R.id.show_products) != null) {
+           // show_products.startAnimation(AnimationUtils.loadAnimation(activity,R.anim.move));
             showProduct();
         }
     }
