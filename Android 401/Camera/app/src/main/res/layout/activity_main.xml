@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_marginTop="5dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:id="@+id/button"
+        android:onClick="gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GALERİ"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+
+        />
+
+    <Button
+        android:layout_marginTop="5dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:id="@+id/buttons"
+        android:onClick="kamera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KAMERA"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:layout_marginTop="5dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:id="@+id/buttonsn"
+        android:onClick="users"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KİŞİLER"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+    <Button
+        android:layout_marginTop="5dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:id="@+id/audio"
+        android:onClick="audio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ses"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <Button
+        android:layout_marginTop="5dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:id="@+id/location"
+        android:onClick="location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="konum"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+    <Button
+        android:layout_marginTop="5dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:id="@+id/internet"
+        android:onClick="internet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="internet"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+</LinearLayout>
