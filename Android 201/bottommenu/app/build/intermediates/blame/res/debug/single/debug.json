@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout-xhdpi_activity_main.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout-xhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mail.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_bottom.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\drawable\\background_bottom.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_add.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_personal.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout\\fragment_personal.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_home.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout-xxhdpi_activity_main.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout-xxhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_homepage.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout\\fragment_homepage.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout-mdpi_activity_main.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout-mdpi\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_user.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout-hdpi_activity_main.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout-hdpi\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_inbox.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout\\fragment_inbox.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout-xxxhdpi_activity_main.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout-xxxhdpi\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_explore.xml.flat",
+        "source": "C:\\Repository\\android_tutorials\\Android 201\\bottommenu\\app\\src\\main\\res\\layout\\fragment_explore.xml"
+    }
+]

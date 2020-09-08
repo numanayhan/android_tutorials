@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Repository\\android_tutorials\\Android 201\\Cardview\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Repository\\android_tutorials\\Android 201\\Cardview\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "2,11,3,4,5,6,7,8,9,10",
+                        "startColumns": "8,8,8,8,8,8,8,8,8,8",
+                        "startOffsets": "65,516,116,167,216,265,316,366,416,466",
+                        "endColumns": "49,49,49,47,47,49,48,48,48,48",
+                        "endOffsets": "106,557,157,206,255,306,356,406,456,506"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,143,187,229,271,315,358,401,444",
+                        "endColumns": "43,43,43,41,41,43,42,42,42,42",
+                        "endOffsets": "94,138,182,224,266,310,353,396,439,482"
+                    }
+                }
+            ]
+        }
+    ]
+}
